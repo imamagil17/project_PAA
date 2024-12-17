@@ -1,0 +1,31 @@
+Array with n=100: NOT UNIQUE
+Worst Case Time for n=100: 0.0000058000 seconds
+Average Case Time for n=100: 0.0000167000 seconds
+
+Array with n=150: NOT UNIQUE
+Worst Case Time for n=150: 0.0000058000 seconds
+Average Case Time for n=150: 0.0000123000 seconds
+
+Array with n=200: NOT UNIQUE
+Worst Case Time for n=200: 0.0000068000 seconds
+Average Case Time for n=200: 0.0000202000 seconds
+
+Array with n=250: NOT UNIQUE
+Worst Case Time for n=250: 0.0000078000 seconds
+Average Case Time for n=250: 0.0000159000 seconds
+
+Array with n=300: NOT UNIQUE
+Worst Case Time for n=300: 0.0000102000 seconds
+Average Case Time for n=300: 0.0000183000 seconds
+
+Array with n=350: NOT UNIQUE
+Worst Case Time for n=350: 0.0000329000 seconds
+Average Case Time for n=350: 0.0000180000 seconds
+
+Array with n=400: NOT UNIQUE
+Worst Case Time for n=400: 0.0000233000 seconds
+Average Case Time for n=400: 0.0000171000 seconds
+
+Array with n=500: NOT UNIQUE
+Worst Case Time for n=500: 0.0000515000 seconds
+Average Case Time for n=500: 0.0000312000 seconds
